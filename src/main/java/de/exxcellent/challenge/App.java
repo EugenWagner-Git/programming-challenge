@@ -45,8 +45,8 @@ public final class App {
 					day = w.get(i)[0]
 				}
 			}
-		return day;
 		}
+		return day;
 	}
 	private string GetFootballDiff(string footballPath){
 		int min = 500;
